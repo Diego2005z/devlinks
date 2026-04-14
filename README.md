@@ -1152,3 +1152,7 @@ Habilidades de agente de IA para tu proyecto
 
 ⭐ Agrega una estrella a este repositorio, pronto habrán más enlaces 🚀.
 Recopilado por [Diego Soto](https://github.com/Diego2005z)
+
+## Licencia
+
+Este proyecto está bajo la licencia MIT. Consulta el archivo [LICENSE](./LICENSE).
